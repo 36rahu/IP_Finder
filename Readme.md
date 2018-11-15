@@ -1,11 +1,9 @@
-IP Finder
+# IP Finder
 
 A simple public ip finder usig python.
 
-Requirements
+Install python dependencies: 
+`pip install -r requirements.txt`
 
-Install python dependencies using # sudo pip install -r requirements.txt
-
-Usage
-
-python ip_finder.py
+Usage:
+`python ip_finder.py`
